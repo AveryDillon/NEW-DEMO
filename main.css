@@ -1,5 +1,12 @@
-p{
+.p{
 	text-align: center;
 	color: black;
 	margin: 3rem;
+}
+
+.div {
+	text-transform: capitalize;
+	font-size-adjust: 3rem;
+	grid-area: all;
+	background-blend-mode: color-dodge;
 }
